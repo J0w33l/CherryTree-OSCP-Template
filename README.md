@@ -16,8 +16,4 @@ This repository provides a **CherryTree template (`.ctb`)** geared toward OSCP-s
   - **7. Logs & Evidence**  
   - **8. Misc Notes**
 
-## How to Use
-
-1. **Download or Clone** this repository:
-   ```bash
-   git clone https://github.com/yourusername/oscp-cherrytree-template.git
+Note: **You can export this template as PDF and use it as formal report**
